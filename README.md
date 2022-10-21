@@ -6,6 +6,7 @@
 
 - :star: [Authzero](https://github.com/vishwac09/authzero) Drupal 8/9 compatible module.
 - :factory: [Entity Convert](https://github.com/vishwac09/entity-convert) Convert Drupal entities into simple object/array of field => values.
+- :ledger:	 [AWS Certification notes](https://github.com/vishwac09/aws-certification-notes) Short notes on different types of AWS certification.
 
 ##### BIO
 
@@ -16,6 +17,10 @@
 - :envelope: Reach out via: [Linkedin](https://www.linkedin.com/in/vishwa-chikate-a8222b127/)
 - :bicyclist: Hobby: I love Cycling
 
-## 🛠 Skills
+##### BLOGS
+- [Drupal — RESTful API’s validation the simple way](https://medium.com/@vishwa.chikate/drupal-8-9-writing-validation-for-restful-apis-the-simple-way-e7c10b47f71d)
+- [PHP — RESTful API resource handler](https://medium.com/@vishwa.chikate/php-restful-api-resource-handlers-c2d8376e1e6c)
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,js,react,css,docker,go,html,aws)](https://skills.thijs.gg)
+## Skills
+
+[![My Skills](https://skills.thijs.gg/icons?i=php,js,react,css,docker,go,html,aws)](https://skills.thijs.gg/icons?i=php,js,react,css,docker,go,html,aws)
