@@ -6,7 +6,7 @@
 
 - :star: [Authzero](https://github.com/vishwac09/authzero) Drupal 8/9 compatible module.
 - :factory: [Entity Convert](https://github.com/vishwac09/entity-convert) Convert Drupal entities into simple object/array of field => values.
-- :ledger:	 [AWS Certification notes](https://github.com/vishwac09/aws-certification-notes) Short notes on different types of AWS certification.
+- :ledger:	 [AWS Cloud Practitioner](https://github.com/vishwac09/aws-cloud-practitioner)  Notes for the AWS Cloud Practitioner Exam.
 
 ##### BIO
 
