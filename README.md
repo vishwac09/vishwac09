@@ -18,6 +18,11 @@
 - :envelope: Reach out via: [Linkedin](https://www.linkedin.com/in/vishwa-chikate-a8222b127/)
 - :bicyclist: Hobby: I love Cycling
 
+##### CERTIFICATION
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c177d7e8-da71-4657-a871-3e77e3f1bc9e)
+- :student: AWS Certified Solutions Architect - Associate (Pending & Planned)
+
 ##### BLOGS
 - [Drupal — RESTful API’s validation the simple way](https://medium.com/@vishwa.chikate/drupal-8-9-writing-validation-for-restful-apis-the-simple-way-e7c10b47f71d)
 - [PHP — RESTful API resource handler](https://medium.com/@vishwa.chikate/php-restful-api-resource-handlers-c2d8376e1e6c)
