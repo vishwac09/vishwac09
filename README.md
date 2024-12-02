@@ -9,6 +9,7 @@
 - :ledger: [AWS Cloud Practitioner](https://github.com/vishwac09/aws-cloud-practitioner) Notes for the AWS Cloud Practitioner Exam.
 - :stopwatch: [AWS Practice Questions](https://github.com/vishwac09/aws-practice-questions) Practice AWS Certification questions on HTML app built using REACT.
 - :shaved_ice: [Typescript notes](https://github.com/vishwac09/typescript-notes) Notes on the Typescript programming language.
+- :factory:	[WEB Accessibility Guidelines](https://github.com/vishwac09/web-a11y-guidelines) - WIP
 
 ##### BIO
 
@@ -37,3 +38,4 @@
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![DRUPAL](https://img.shields.io/badge/Drupal-0678BE.svg?style=for-the-badge&logo=Drupal&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
